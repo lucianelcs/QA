@@ -1,0 +1,20 @@
+[1115/004337.974:ERROR:process_info.cc(632)] range at 0x7fea384c00000000, size 0x1f9 fully unreadable
+[1115/004337.975:ERROR:process_info.cc(632)] range at 0x7fea38ae00000000, size 0x1f9 fully unreadable
+[1115/004337.975:ERROR:process_info.cc(632)] range at 0x0, size 0x1f9 fully unreadable
+[1115/004338.245:ERROR:process_info.cc(380)] UncheckedAllocate
+[1115/004526.804:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[1118/132824.008:ERROR:process_info.cc(632)] range at 0x54a13a4800000000, size 0x271 fully unreadable
+[1118/132824.009:ERROR:process_info.cc(632)] range at 0x54a13aac00000000, size 0x271 fully unreadable
+[1118/132824.009:ERROR:process_info.cc(632)] range at 0x0, size 0x271 fully unreadable
+[1118/132824.665:ERROR:process_info.cc(380)] UncheckedAllocate
+[1118/134309.865:ERROR:process_info.cc(632)] range at 0x1d3930c800000000, size 0x1fa fully unreadable
+[1118/134309.911:ERROR:process_info.cc(632)] range at 0x1d3930e800000000, size 0x1fa fully unreadable
+[1118/134309.911:ERROR:process_info.cc(632)] range at 0x0, size 0x1fa fully unreadable
+[1118/150810.828:ERROR:process_info.cc(632)] range at 0x8be93af600000000, size 0x1e4 fully unreadable
+[1118/150810.844:ERROR:process_info.cc(632)] range at 0x8be93b5a00000000, size 0x1e4 fully unreadable
+[1118/150810.844:ERROR:process_info.cc(632)] range at 0x0, size 0x1e4 fully unreadable
+[1118/150810.871:ERROR:process_info.cc(380)] UncheckedAllocate
+[1118/151640.901:ERROR:process_info.cc(632)] range at 0x4513309600000000, size 0x281 fully unreadable
+[1118/151640.953:ERROR:process_info.cc(632)] range at 0x451330b600000000, size 0x281 fully unreadable
+[1118/151640.953:ERROR:process_info.cc(632)] range at 0x0, size 0x281 fully unreadable
+[1118/151641.036:ERROR:process_info.cc(380)] UncheckedAllocate

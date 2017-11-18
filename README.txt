@@ -1,0 +1,1 @@
+Para executar o teste é necessário alterar o arquivo <homePO.java> o método Login() alterando os valores dos campos login e password com valores válidos (de um usuário já cadastrado no sitema)
